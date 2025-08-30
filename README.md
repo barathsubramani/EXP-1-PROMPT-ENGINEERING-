@@ -25,6 +25,8 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 - Training: Using massive datasets to learn patterns.
 - Generation: Producing novel content (text, images, etc.) based on learned knowledge.
 
+![Generative vs Discriminative AI](https://upload.wikimedia.org/wikipedia/commons/6/64/AI_Generative_vs_Discriminative.png)
+
 ---
 
 ### 2. Generative AI Architectures
@@ -36,6 +38,8 @@ To study and understand the foundational concepts of Generative AI and Large Lan
   - Examples: GPT, BERT, T5, LLaMA.
 - **Diffusion Models:** Generate images/audio by iteratively denoising random noise. (Used in DALL·E, Stable Diffusion).
 
+![Transformer Self-Attention](https://upload.wikimedia.org/wikipedia/commons/1/10/Attention-mechanism.png)
+
 ---
 
 ### 3. Applications of Generative AI
@@ -45,6 +49,8 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 - **Healthcare:** Drug discovery, protein folding prediction.
 - **Education & Research:** Personalized learning, content summarization.
 - **Business:** Marketing content creation, document automation.
+
+![Applications of AI](https://upload.wikimedia.org/wikipedia/commons/d/d0/Artificial_intelligence_application_areas.png)
 
 ---
 
@@ -58,6 +64,8 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 - Accessibility concerns (only large corporations can afford massive LLMs).
 
 **Future Trend:** Efficient scaling through techniques like fine-tuning, parameter-efficient training (LoRA), and smaller domain-specific models.
+
+![Scaling Laws of AI Models](https://upload.wikimedia.org/wikipedia/commons/0/0d/Scaling_laws_AI.png)
 
 ---
 
