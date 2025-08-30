@@ -1,4 +1,8 @@
 # EXP-1 – PROMPT ENGINEERING
+```
+Name: Barath S
+Reg No: 212222230018
+```
 
 ## Aim
 To study and understand the foundational concepts of Generative AI and Large Language Models (LLMs), including their architectures, applications, and the impact of scaling, and to present a comprehensive report on the same.
