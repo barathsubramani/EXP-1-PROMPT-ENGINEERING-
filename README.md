@@ -38,7 +38,7 @@ To study and understand the foundational concepts of Generative AI and Large Lan
   - Examples: GPT, BERT, T5, LLaMA.
 - **Diffusion Models:** Generate images/audio by iteratively denoising random noise. (Used in DALL·E, Stable Diffusion).
 
-![image](https://github.com/barathsubramani/EXP-1-PROMPT-ENGINEERING-/blob/main/Gemini_Generated_Image_g2x8v9g2x8v9g2x8%20(3).png)
+![image](https://github.com/barathsubramani/EXP-1-PROMPT-ENGINEERING-/blob/main/Gemini_Generated_Image_g2x8v9g2x8v9g2x8%20(1).png)
 
 ---
 
@@ -51,7 +51,6 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 - **Business:** Marketing content creation, document automation.
 
 ![image](https://github.com/barathsubramani/EXP-1-PROMPT-ENGINEERING-/blob/main/Gemini_Generated_Image_g2x8v9g2x8v9g2x8%20(2).png)
-
 ---
 
 ### 4. Impact of Scaling in LLMs
@@ -65,7 +64,7 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 
 **Future Trend:** Efficient scaling through techniques like fine-tuning, parameter-efficient training (LoRA), and smaller domain-specific models.
 
-![image](https://github.com/barathsubramani/EXP-1-PROMPT-ENGINEERING-/blob/main/Gemini_Generated_Image_g2x8v9g2x8v9g2x8%20(1).png)
+![image](https://github.com/barathsubramani/EXP-1-PROMPT-ENGINEERING-/blob/main/Gemini_Generated_Image_g2x8v9g2x8v9g2x8%20(3).png)
 
 ---
 
