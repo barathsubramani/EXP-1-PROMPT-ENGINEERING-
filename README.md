@@ -25,7 +25,7 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 - Training: Using massive datasets to learn patterns.
 - Generation: Producing novel content (text, images, etc.) based on learned knowledge.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/6/64/AI_Generative_vs_Discriminative.png)
+![image]("https://upload.wikimedia.org/wikipedia/commons/6/64/AI_Generative_vs_Discriminative.png")
 
 ---
 
