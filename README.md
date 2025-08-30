@@ -5,7 +5,7 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 
 ---
 
-## Algorithm (Steps)
+## Algorithm
 1. Identify foundational concepts of Generative AI: definition, working principle, and data-driven generation.
 2. Study core architectures (e.g., transformers, autoencoders, GANs) used in Generative AI.
 3. Explore applications of Generative AI across domains such as text, image, audio, and multimodal AI.
@@ -14,7 +14,7 @@ To study and understand the foundational concepts of Generative AI and Large Lan
 
 ---
 
-## Output (Report Content)
+## Output
 
 ### 1. Foundational Concepts of Generative AI
 - Generative AI refers to artificial intelligence models that create new data (text, images, audio, code) rather than just analyzing existing data.
